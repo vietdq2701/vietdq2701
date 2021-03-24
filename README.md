@@ -1,7 +1,7 @@
-#### 👋 Hi, I’m Viet Duong
-#### 👀 I’m interested in Android, iOS, Flutter
-#### 🌱 I’m currently learning Flutter, iOS
-#### 📫 How to reach me:
+#### 👋  Hi, I’m Viet Duong
+#### 👀  I’m interested in Android, iOS, Flutter
+#### 🌱  I’m currently learning Flutter, iOS
+#### 📫  How to reach me:
 - Skype: vietdq2701
 - Facebook: https://www.facebook.com/duongquangviet/
 
