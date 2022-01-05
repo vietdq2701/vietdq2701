@@ -1,5 +1,5 @@
 #### 👋  Hi, I’m Viet Duong
-#### 👀  I’m interested in Android, iOS, Flutter
+#### 👀  I’m interested in Android, iOS, Flutter, React Native
 #### 🌱  I’m currently learning Flutter, iOS
 #### 📫  How to reach me:
 - Skype: vietdq2701
